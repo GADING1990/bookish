@@ -1,0 +1,447 @@
+WARNING - 2024-01-17 01:39:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-17 01:45:33 --> ParseError: syntax error, unexpected token "return"
+in APPPATH\Controllers\Login.php on line 35.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\crud_ci4\\app\\Controllers\\Login.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Login')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Login')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Login', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-17 01:46:30 --> ParseError: syntax error, unexpected token "return"
+in APPPATH\Controllers\Login.php on line 35.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\crud_ci4\\app\\Controllers\\Login.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Login')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Login')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Login', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-17 01:47:53 --> ParseError: syntax error, unexpected token "}"
+in APPPATH\Controllers\Login.php on line 37.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\crud_ci4\\app\\Controllers\\Login.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Login')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Login')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Login', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-17 01:47:57 --> ParseError: syntax error, unexpected token "}"
+in APPPATH\Controllers\Login.php on line 37.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\crud_ci4\\app\\Controllers\\Login.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Login')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Login')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Login', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 01:48:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 01:48:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 01:49:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 01:49:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 01:49:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 01:50:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 01:52:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 01:52:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-17 02:16:20 --> ParseError: syntax error, unexpected variable "$this"
+in APPPATH\Controllers\Login.php on line 42.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\crud_ci4\\app\\Controllers\\Login.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Login')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Login')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Login', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-17 02:16:22 --> ParseError: syntax error, unexpected variable "$this"
+in APPPATH\Controllers\Login.php on line 42.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\crud_ci4\\app\\Controllers\\Login.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Login')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Login')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Login', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-17 02:16:23 --> ParseError: syntax error, unexpected variable "$this"
+in APPPATH\Controllers\Login.php on line 42.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\crud_ci4\\app\\Controllers\\Login.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Login')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Login')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Login', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:16:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:16:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:18:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-17 02:18:00 --> ErrorException: Undefined property: CodeIgniter\Database\MySQLi\Result::$nama_lengkap
+in APPPATH\Controllers\Login.php on line 43.
+ 1 APPPATH\Controllers\Login.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\Database\\MySQLi\\Result::$nama_lengkap', 'C:\\xampp\\htdocs\\crud_ci4\\app\\Controllers\\Login.php', 43)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Login->proses_login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:18:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:18:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-17 02:18:08 --> ErrorException: Undefined property: CodeIgniter\Database\MySQLi\Result::$nama_lengkap
+in APPPATH\Controllers\Login.php on line 43.
+ 1 APPPATH\Controllers\Login.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\Database\\MySQLi\\Result::$nama_lengkap', 'C:\\xampp\\htdocs\\crud_ci4\\app\\Controllers\\Login.php', 43)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Login->proses_login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:18:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-17 02:18:38 --> ErrorException: Undefined variable $nama_lengkap
+in APPPATH\Controllers\Login.php on line 43.
+ 1 APPPATH\Controllers\Login.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama_lengkap', 'C:\\xampp\\htdocs\\crud_ci4\\app\\Controllers\\Login.php', 43)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Login->proses_login()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:21:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:21:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-17 02:21:13 --> BadMethodCallException: Call to undefined method App\Models\model_akun::getRow
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Models\model_akun.php(22): CodeIgniter\Model->__call('getRow', [...])
+ 2 APPPATH\Controllers\Login.php(42): App\Models\model_akun->dapatkan_user('rahmadicahyo11@gmail.com')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Login->proses_login()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:23:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-17 02:23:43 --> BadMethodCallException: Call to undefined method App\Models\model_akun::getRow
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Models\model_akun.php(22): CodeIgniter\Model->__call('getRow', [...])
+ 2 APPPATH\Controllers\Login.php(42): App\Models\model_akun->dapatkan_user('rahmadicahyo11@gmail.com')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Login->proses_login()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:23:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:23:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:23:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-17 02:23:55 --> BadMethodCallException: Call to undefined method App\Models\model_akun::getRow
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Models\model_akun.php(22): CodeIgniter\Model->__call('getRow', [...])
+ 2 APPPATH\Controllers\Login.php(42): App\Models\model_akun->dapatkan_user('rahmadicahyo11@gmail.com')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Login->proses_login()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:25:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:25:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:25:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:26:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:26:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:26:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:26:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-17 02:38:05 --> ParseError: syntax error, unexpected token "else"
+in APPPATH\Controllers\Login.php on line 55.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\crud_ci4\\app\\Controllers\\Login.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Login')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Login')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Login', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-17 02:38:11 --> ParseError: syntax error, unexpected token "else"
+in APPPATH\Controllers\Login.php on line 55.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\crud_ci4\\app\\Controllers\\Login.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Login')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Login')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Login', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-17 02:38:13 --> ParseError: syntax error, unexpected token "else"
+in APPPATH\Controllers\Login.php on line 55.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\crud_ci4\\app\\Controllers\\Login.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Login')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Login')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Login', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-17 02:38:16 --> ParseError: syntax error, unexpected token "else"
+in APPPATH\Controllers\Login.php on line 55.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\crud_ci4\\app\\Controllers\\Login.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Login')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Login')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Login', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-17 02:38:55 --> ParseError: syntax error, unexpected token "return", expecting "function" or "const"
+in APPPATH\Controllers\Login.php on line 61.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\crud_ci4\\app\\Controllers\\Login.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Login')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Login')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Login', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:39:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:40:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-17 02:40:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-17 02:40:05 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "beranda.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('beranda.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('beranda', [], true)
+ 3 APPPATH\Controllers\Login.php(51): view('beranda')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Login->proses_login()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:42:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-17 02:42:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-17 02:42:19 --> TypeError: App\Controllers\Login::proses_login(): Return value must be of type string, CodeIgniter\HTTP\RedirectResponse returned
+in APPPATH\Controllers\Login.php on line 51.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Login->proses_login()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:42:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-17 02:42:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-17 02:43:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:44:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:44:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:44:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 02:44:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 06:21:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 06:21:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 06:23:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 06:23:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 06:23:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 06:23:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 06:24:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 06:26:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 06:27:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 06:28:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 06:28:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 06:31:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 06:35:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 06:35:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 06:41:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 06:42:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-17 06:42:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-17 06:42:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-17 06:43:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Login::$model_akun is deprecated in APPPATH\Controllers\Login.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Login->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

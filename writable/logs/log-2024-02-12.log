@@ -1,0 +1,1651 @@
+INFO - 2024-02-12 04:14:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 04:14:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 04:14:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 04:14:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 04:14:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 04:14:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 04:15:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 04:15:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 04:15:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 04:15:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 04:15:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 04:15:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 04:15:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 04:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 04:15:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 04:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 04:15:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 04:15:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 04:15:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 04:15:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 04:15:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 04:15:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 04:15:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 04:15:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 04:15:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:15:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 04:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 04:16:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:16:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:16:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:16:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:16:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:16:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 04:16:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 04:16:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:16:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:16:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 04:16:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 04:16:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:16:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:16:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 04:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 04:16:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:16:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:16:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 04:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 04:19:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:19:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:19:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:19:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:19:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:19:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 04:19:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 04:19:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:19:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:19:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 04:19:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 04:19:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:19:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:19:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 04:19:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 04:19:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:19:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:19:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 04:19:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 04:20:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:20:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:20:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 04:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 04:22:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:22:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 04:22:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 04:22:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 06:26:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-12 06:26:58 --> ErrorException: Undefined variable $semua_daftar_buku
+in APPPATH\Views\display_beranda\home.php on line 126.
+ 1 APPPATH\Views\display_beranda\home.php(126): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $semua_daftar_buku', 'C:\\xampp\\htdocs\\crud_ci4\\app\\Views\\display_beranda\\home.php', 126)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\crud_ci4\\app\\Views\\display_beranda\\home.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('display_beranda/home', [], true)
+ 5 APPPATH\Controllers\Home.php(16): view('display_beranda/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->beranda()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:26:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-12 06:26:59 --> ErrorException: Undefined variable $semua_daftar_buku
+in APPPATH\Views\display_beranda\home.php on line 126.
+ 1 APPPATH\Views\display_beranda\home.php(126): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $semua_daftar_buku', 'C:\\xampp\\htdocs\\crud_ci4\\app\\Views\\display_beranda\\home.php', 126)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\crud_ci4\\app\\Views\\display_beranda\\home.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('display_beranda/home', [], true)
+ 5 APPPATH\Controllers\Home.php(16): view('display_beranda/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->beranda()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-12 06:30:08 --> ParseError: syntax error, unexpected single-quoted string "semua_daftar_buku", expecting "]"
+in APPPATH\Controllers\Home.php on line 15.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\crud_ci4\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-12 06:30:22 --> ParseError: syntax error, unexpected single-quoted string "semua_daftar_buku", expecting "]"
+in APPPATH\Controllers\Home.php on line 15.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\crud_ci4\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-12 06:30:24 --> ParseError: syntax error, unexpected single-quoted string "semua_daftar_buku", expecting "]"
+in APPPATH\Controllers\Home.php on line 15.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\crud_ci4\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(899): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:31:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-12 06:31:03 --> ErrorException: Undefined variable $semua_daftar_buku
+in APPPATH\Controllers\Home.php on line 11.
+ 1 APPPATH\Controllers\Home.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $semua_daftar_buku', 'C:\\xampp\\htdocs\\crud_ci4\\app\\Controllers\\Home.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->beranda()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:31:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-12 06:31:43 --> ErrorException: Undefined property: App\Controllers\Home::$model_daftar_buku
+in APPPATH\Controllers\Home.php on line 11.
+ 1 APPPATH\Controllers\Home.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Home::$model_daftar_buku', 'C:\\xampp\\htdocs\\crud_ci4\\app\\Controllers\\Home.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->beranda()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 06:34:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:34:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:35:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:35:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:36:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:36:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:37:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:37:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:38:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:38:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:38:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:38:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:39:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:39:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:39:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:39:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:40:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:40:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:42:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:43:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:43:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:43:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:43:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:43:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:43:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:43:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:43:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:44:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:44:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:45:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:45:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-12 06:45:21 --> ErrorException: Undefined variable $k_buku
+in APPPATH\Views\display_beranda\home.php on line 129.
+ 1 APPPATH\Views\display_beranda\home.php(129): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $k_buku', 'C:\\xampp\\htdocs\\crud_ci4\\app\\Views\\display_beranda\\home.php', 129)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\crud_ci4\\app\\Views\\display_beranda\\home.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('display_beranda/home', [], true)
+ 5 APPPATH\Controllers\Home.php(24): view('display_beranda/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->beranda()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 06:45:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:45:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:46:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:46:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:46:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:46:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:46:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:46:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:46:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:46:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:46:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:46:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:46:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:46:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 06:49:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 06:49:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:15:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:15:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:15:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:15:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:15:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:15:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 07:15:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 07:15:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 07:15:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-12 07:15:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:15:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:15:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:15:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:15:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:15:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:15:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:15:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:15:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:16:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:16:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:16:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:16:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:16:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:16:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:16:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:16:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:16:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:16:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:16:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:16:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:16:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:16:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:16:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:16:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:17:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:17:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:18:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:18:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:18:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:18:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:18:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:18:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:18:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:19:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:19:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:19:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:19:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:19:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:19:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:19:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:19:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:19:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:19:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:20:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:20:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:20:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:20:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:20:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:20:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:20:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:20:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:20:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:20:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:20:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:20:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:20:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:20:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:20:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:20:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:20:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:20:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:20:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:21:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:21:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:21:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:21:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:21:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:21:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:21:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:22:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:22:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:25:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:25:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:25:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:25:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:25:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:25:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:25:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:25:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:25:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:25:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:25:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:25:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:25:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:25:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:25:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:25:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:25:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:25:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:25:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:25:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:25:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:25:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:25:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:25:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:25:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:25:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:25:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:25:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:25:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:25:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:26:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:26:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:26:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:26:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:26:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:26:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:26:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:26:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:26:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:26:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:26:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:26:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:26:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:26:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:26:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:26:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:26:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:26:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:26:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:26:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:27:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:27:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:27:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:27:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:27:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:27:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:27:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:27:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:27:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:27:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:27:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:27:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:27:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:28:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:28:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:29:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:29:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:29:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:29:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:33:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:33:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:33:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:33:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:33:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:33:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:33:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:33:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:33:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:33:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:33:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:33:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-12 07:33:52 --> ErrorException: Undefined variable $buku
+in APPPATH\Views\display_admin\halaman_daftar_buku.php on line 53.
+ 1 APPPATH\Views\display_admin\halaman_daftar_buku.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $buku', 'C:\\xampp\\htdocs\\crud_ci4\\app\\Views\\display_admin\\halaman_daftar_buku.php', 53)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\crud_ci4\\app\\Views\\display_admin\\halaman_daftar_buku.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('display_admin/halaman_daftar_buku', [], true)
+ 5 APPPATH\Controllers\Admin.php(174): view('display_admin/halaman_daftar_buku')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->halaman_daftar_buku()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:34:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:34:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:34:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-12 07:34:31 --> ErrorException: Undefined variable $buku
+in APPPATH\Views\display_admin\halaman_daftar_buku.php on line 56.
+ 1 APPPATH\Views\display_admin\halaman_daftar_buku.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $buku', 'C:\\xampp\\htdocs\\crud_ci4\\app\\Views\\display_admin\\halaman_daftar_buku.php', 56)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\crud_ci4\\app\\Views\\display_admin\\halaman_daftar_buku.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('display_admin/halaman_daftar_buku', [], true)
+ 5 APPPATH\Controllers\Admin.php(174): view('display_admin/halaman_daftar_buku')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->halaman_daftar_buku()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:35:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:35:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:35:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-12 07:35:33 --> ErrorException: Undefined variable $buku
+in APPPATH\Views\display_admin\halaman_daftar_buku.php on line 56.
+ 1 APPPATH\Views\display_admin\halaman_daftar_buku.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $buku', 'C:\\xampp\\htdocs\\crud_ci4\\app\\Views\\display_admin\\halaman_daftar_buku.php', 56)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\crud_ci4\\app\\Views\\display_admin\\halaman_daftar_buku.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('display_admin/halaman_daftar_buku', [], true)
+ 5 APPPATH\Controllers\Admin.php(174): view('display_admin/halaman_daftar_buku')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->halaman_daftar_buku()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:35:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:35:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:35:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-12 07:35:38 --> ErrorException: Undefined variable $buku
+in APPPATH\Views\display_admin\halaman_daftar_buku.php on line 56.
+ 1 APPPATH\Views\display_admin\halaman_daftar_buku.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $buku', 'C:\\xampp\\htdocs\\crud_ci4\\app\\Views\\display_admin\\halaman_daftar_buku.php', 56)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\crud_ci4\\app\\Views\\display_admin\\halaman_daftar_buku.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('display_admin/halaman_daftar_buku', [], true)
+ 5 APPPATH\Controllers\Admin.php(174): view('display_admin/halaman_daftar_buku')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->halaman_daftar_buku()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:39:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:39:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:39:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:39:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:39:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:39:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:39:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:39:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:40:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:40:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:42:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:46:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$model_daftar_buku is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:46:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:47:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:47:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:47:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:47:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:47:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:47:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:47:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:47:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:47:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:47:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:47:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:47:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:47:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:47:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:47:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:51:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:51:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:51:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-12 07:51:57 --> ErrorException: Undefined array key "id_kategori_buku"
+in APPPATH\Views\display_admin\halaman_daftar_buku.php on line 317.
+ 1 APPPATH\Views\display_admin\halaman_daftar_buku.php(317): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_kategori_buku"', 'C:\\xampp\\htdocs\\crud_ci4\\app\\Views\\display_admin\\halaman_daftar_buku.php', 317)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\crud_ci4\\app\\Views\\display_admin\\halaman_daftar_buku.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('display_admin/halaman_daftar_buku', [], true)
+ 5 APPPATH\Controllers\Admin.php(174): view('display_admin/halaman_daftar_buku')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->halaman_daftar_buku()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:54:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:54:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:54:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:54:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:54:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:54:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:54:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:54:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:54:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:54:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:54:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:54:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:55:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:55:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:55:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:55:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:55:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:55:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:55:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:55:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:57:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:57:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:57:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:57:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:57:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:57:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:57:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:57:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-02-12 07:57:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_kategori is deprecated in APPPATH\Controllers\Admin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:57:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_sub_kategori is deprecated in APPPATH\Controllers\Admin.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-02-12 07:57:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$model_daftar_buku is deprecated in APPPATH\Controllers\Admin.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-12 07:57:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
